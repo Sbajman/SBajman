@@ -13,7 +13,7 @@ Senior DevOps and Site Reliability Engineer with 15+ years of experience designi
 ## Projects ( New Project Update In Progress)
 - **Data Pipeline S3 to DynamoDB** – Implemented Data Pipeline to export millions of records exported to s3 and stored as JSON files. The stored JSON files were exported to DynamoDB. 
 
-- **COMPLETE CICD-PIPELINE A GITOPS APPROACH** 
+- **ULTIMATE CICD-PIPELINE A GITOPS APPROACH** 
 Implemented CICD pipeline that demonstrates CI/CD architecture applicable to Real-world DevOps & MLOps practices:
   * CI (Continuous Integration): Github, Jenkins, sonarqube, Dockerhub-registry.
   * CD (Continuous Deployment): Github, Helm, ArgoCD (GitOps model)
