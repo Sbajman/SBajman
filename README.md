@@ -22,7 +22,7 @@ Implemented CICD pipeline that demonstrates CI/CD architecture applicable to Rea
   The pipeline ensures that Git is the single source of truth, and all deployments are declarative, version-controlled, and automatically reconciled.
   * Summary: CI builds artifacts and updates a GitOps repository, while CD is fully decoupled and driven by ArgoCD, enabling scalable, reusable pipelines across multiple services
 
-- ** END-TO-END MLOPS-PIPELINE A GITOPS APPROACH (In Progress)
+- **END-TO-END MLOPS-PIPELINE A GITOPS APPROACH** (In Progress)
 
 - **CockroachDB Cloud Metrics Exporter Service** – 
   Wrote a python-based exporter to scrape metrics and export it to Prometheus, Grafana monitoring dashboards were created for visualization
