@@ -10,7 +10,7 @@ Senior DevOps and Site Reliability Engineer with 15+ years of experience designi
 
 ---
 
-## Projects ( New Project Update In Progress)
+## Few Recent Selected Projects ( Update In Progress)
 - **Data Pipeline S3 to DynamoDB** – Implemented Data Pipeline to export millions of records exported to s3 and stored as JSON files. The stored JSON files were exported to DynamoDB. 
 
 - **END-TO-END CICD-PIPELINE A GITOPS APPROACH** 
@@ -22,7 +22,7 @@ Implemented CICD pipeline that demonstrates CI/CD architecture applicable to Rea
   The pipeline ensures that Git is the single source of truth, and all deployments are declarative, version-controlled, and automatically reconciled.
   * Summary: CI builds artifacts and updates a GitOps repository, while CD is fully decoupled and driven by ArgoCD, enabling scalable, reusable pipelines across multiple services
 
-- **END-TO-END MLOPS-PIPELINE A GITOPS APPROACH** (In Progress)
+- **END-TO-END MLOPS-PIPELINE A GITOPS APPROACH** (Write up Upfate In Progress)
 
 - **CockroachDB Cloud Metrics Exporter Service** – 
   Wrote a python-based exporter to scrape metrics and export it to Prometheus, Grafana monitoring dashboards were created for visualization
