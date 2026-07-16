@@ -24,6 +24,10 @@ Implemented CICD pipeline that demonstrates CI/CD architecture applicable to Rea
 
 - **END-TO-END MLOPS-PIPELINE A GITOPS APPROACH** (Write up Update In Progress)
 
+- **(Machine Learning) Insurance Claim Prediction** -
+  Developed a machine learning model to predict whether an automobile insurance policyholder will file an insurance claim within the next year using a highly imbalanced real-world dataset. The project focuses on addressing class imbalance, feature engineering, model comparison, and robust evaluation to maximize prediction performance for the minority class. (Repo update in Progress)
+   
+
 - **CockroachDB Cloud Metrics Exporter Service** – 
   Wrote a python-based exporter to scrape metrics and export it to Prometheus, Grafana monitoring dashboards were created for visualization
   
