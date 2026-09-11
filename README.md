@@ -1,5 +1,6 @@
 # Hi, I'm Sundar Bairavarasu 👋
-**Senior SRE/Senior Cloud Engineer/Senior Platform Engineer  @ Bose | M.S Computer Science, University of Illinois At Springfield, Ph.D in Applied Physics, Alabama A&M University**  
+
+**Senior SRE| Senior Cloud Engineer| Senior Platform Engineer @Bose, M.S Computer Science, University of Illinois At Springfield, Ph.D in Applied Physics, Alabama A&M University**  
 ---
 
 ## About Me
