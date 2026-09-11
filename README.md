@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-Senior DevOps and Site Reliability Engineer with 15+ years of with 15+ years of experience designing, developing, and operating secure, highly available cloud platforms supporting mission-critical production workloads. Technical leader providing architecture, engineering direction, and mentorship to distributed platform teams, with deep expertise in AWS, Kubernetes, Terraform, Ansible, Infrastructure as Code (IaC), CI/CD, and distributed systems. Proven track record of building cloud-native platforms, developing platform automation and self-service capabilities, and implementing scalable, event-driven solutions. Hands-on experience across AI/ML, LLM applications, MLOps, and distributed systems, with a strong focus on end-to-end ownership and operational excellence.
+Cloud Engineering Lead / Senior Platform Engineer with 15+ years of experience designing, developing, and operating secure, highly available cloud platforms supporting mission-critical production workloads. Technical leader providing architecture, engineering direction, and mentorship to distributed platform teams, with deep expertise in AWS, Kubernetes, Terraform, Ansible, Infrastructure as Code (IaC), CI/CD, and distributed systems. Proven track record of building cloud-native platforms, developing platform automation and self-service capabilities, and implementing scalable, event-driven solutions. Hands-on experience across AI/ML, LLM applications, MLOps, and distributed systems, with a strong focus on end-to-end ownership and operational excellence.
 
 ---
 
