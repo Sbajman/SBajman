@@ -1,12 +1,13 @@
 # Hi, I'm Sundar Bairavarasu 👋
 
-**Senior SRE| Senior Cloud Engineer| Senior Platform Engineer @Bose, M.S Computer Science, University of Illinois At Springfield, Ph.D in Applied Physics, Alabama A&M University**  
+*Senior SRE| Senior Cloud Engineer| Senior Platform Engineer @Bose*
+#### M.S Computer Science, University of Illinois At Springfield, 
+#### Ph.D in Applied Physics, Alabama A&M University*
+
 ---
 
 ## About Me
-Senior DevOps and Site Reliability Engineer with 15+ years of experience designing and operating cloud infrastructure, automation, and production systems in large-scale environments. Strong expertise in infrastructure as code, CI/CD automation, Kubernetes, and observability, with hands-on experience supporting AI-enabled services and cloud-native data pipelines. Proven collaborator across R&D, product, and security teams.
-
-  
+Senior DevOps and Site Reliability Engineer with 15+ years of with 15+ years of experience designing, developing, and operating secure, highly available cloud platforms supporting mission-critical production workloads. Technical leader providing architecture, engineering direction, and mentorship to distributed platform teams, with deep expertise in AWS, Kubernetes, Terraform, Ansible, Infrastructure as Code (IaC), CI/CD, and distributed systems. Proven track record of building cloud-native platforms, developing platform automation and self-service capabilities, and implementing scalable, event-driven solutions. Hands-on experience across AI/ML, LLM applications, MLOps, and distributed systems, with a strong focus on end-to-end ownership and operational excellence.
 
 ---
 
