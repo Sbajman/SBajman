@@ -21,6 +21,9 @@ Implemented CICD pipeline that demonstrates CI/CD architecture applicable to Rea
   * Orchestration: Kubernetes (K8s, minikube/kind local testing)
   The pipeline ensures that Git is the single source of truth, and all deployments are declarative, version-controlled, and automatically reconciled.
   * Summary: CI builds artifacts and updates a GitOps repository, while CD is fully decoupled and driven by ArgoCD, enabling scalable, reusable pipelines across multiple services
+ 
+- **Self-Service Kubernetes Internal Developer Platform (IDP)**
+Building a production-style Kubernetes platform that enables developers to deploy containerized services through a Golden Path and GitOps workflow. The platform uses Kubernetes, Helm, Kustomize, Argo CD, GitHub Actions, AWS ECR, OpenTofu/Terragrunt, and Crossplane to automate infrastructure and application delivery. (Update In Progress)
 
 - **END-TO-END MLOPS-PIPELINE A GITOPS APPROACH** (Write up Update In Progress)
 
